@@ -10,7 +10,7 @@ Flask-WTF==0.9.4
 Jinja2==2.7.2
 Markdown==2.4
 MarkupSafe==0.19
-SQLAlchemy==0.9.3
+SQLAlchemy==0.9.4
 WTForms==1.0.5
 Werkzeug==0.9.4
 bleach==1.4
